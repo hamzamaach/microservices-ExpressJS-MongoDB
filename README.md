@@ -26,7 +26,7 @@ To get started with the project, follow the steps below:
 
 2. Install the dependencies for each microservice:
 
-  ``bash
+  ```bash
   cd auth-service
   npm install
 
@@ -34,13 +34,14 @@ To get started with the project, follow the steps below:
   npm install
 
   cd ../order-service
-  npm install
+  npm install 
+  ```
 
 3. Set up the MongoDB database. Update the MongoDB connection strings in the respective microservice configurations (config.js or .env files).
 
 4. Start each microservice:
 
-  ``bash
+  ```bash
   # In separate terminal windows
   cd auth-service
   npm start
