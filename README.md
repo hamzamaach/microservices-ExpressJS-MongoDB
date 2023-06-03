@@ -22,7 +22,7 @@ To get started with the project, follow the steps below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone git@github.com:hamzamaach/microservices-ExpressJS-MongoDB.git
+   git clone https://github.com/hamzamaach/microservices-ExpressJS-MongoDB.git
 
 2. Install the dependencies for each microservice:
 
